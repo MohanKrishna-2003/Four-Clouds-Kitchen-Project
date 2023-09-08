@@ -1,4 +1,4 @@
-![ray-so-export (4)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/64f8a287-6bc2-4c73-a3a5-7c6dbfdd8d7e)# Any Time Eats Project
+<h1 align="center">Any Time Eats Project</h1> 
 
 <h1>Description</h1>
 
