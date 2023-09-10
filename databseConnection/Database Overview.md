@@ -26,26 +26,26 @@
 
 ![ray-so-export (6)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/8afd9993-1687-4e57-8d35-1bea343c73ea)
 
-<h2>4. Creating Table Biryanis</h2>
+<h2>5. Creating Table Biryanis</h2>
 
 ![ray-so-export (7)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/e9ff1b07-9bfb-43ac-bf32-988ebbf3342f)
 
-<h2>4.1 Inserting Food Items in Table Biryanis</h2>
+<h2>5.1 Inserting Food Items in Table Biryanis</h2>
 
 ![ray-so-export (8)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/1f56dacf-9f7a-432f-8a36-62785a419bfa)
 
-<h2>5. Creating Table Beverages</h2>
+<h2>6. Creating Table Beverages</h2>
 
 ![ray-so-export (9)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/6883973f-c10f-48f4-9d44-5d900d873ec6)
 
-<h2>5.1 Inserting Food Items in Table Beverages</h2>
+<h2>6.1 Inserting Food Items in Table Beverages</h2>
 
 ![ray-so-export (10)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/e8f68f80-f983-47b7-8f4d-08dd6080fd9a)
 
-<h2>6. Creating Table Starters</h2>
+<h2>7. Creating Table Starters</h2>
 
 ![ray-so-export (11)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/c18e93ea-9b82-4219-9072-11177967572e)
 
-<h2>6.1 Inserting Food Items in Table Starters</h2>
+<h2>7.1 Inserting Food Items in Table Starters</h2>
 
 ![ray-so-export (12)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/810f6223-66ac-4eae-9bfa-245b08737f87)
