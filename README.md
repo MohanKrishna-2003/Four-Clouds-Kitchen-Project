@@ -27,13 +27,13 @@ The system provides an intuitive menu management interface, enabling items to ad
 
 ![3472b197918097 5ed02b8119488](https://github.com/MohanKrishna-2003/Four-Cloud-s-Kitchen-Project/assets/112927860/64c17d35-f833-4881-bccb-6dd639c1beaa)
 
-<b>Billing</b>: 
+<b>Billing</b> : 
 
 It includes a billing module that calculates the cost of orders and generates bills for customers. Payment processing can also be integrated to streamline the check-out process.
 
 ![image_processing20201104-19449-1eo8duc](https://github.com/MohanKrishna-2003/Four-Cloud-s-Kitchen-Project/assets/112927860/86bfd72b-476d-4b12-a940-dfcf7b3dbd54)
 
-<b>Previous Ordrers</b>
+<b>Previous Ordrers</b> :
 
 It facilitates previous order tracking in order to store the previous items that are orderd by the customers.
 
