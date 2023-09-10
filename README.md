@@ -33,7 +33,7 @@ It includes a billing module that calculates the cost of orders and generates bi
 
 ![image_processing20201104-19449-1eo8duc](https://github.com/MohanKrishna-2003/Four-Cloud-s-Kitchen-Project/assets/112927860/86bfd72b-476d-4b12-a940-dfcf7b3dbd54)
 
-<b>Previous Ordres</b>
+<b>Previous Ordrers</b>
 
 It facilitates previous order tracking in order to store the previous items that are orderd by the customers.
 
