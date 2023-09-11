@@ -49,3 +49,16 @@
 <h2>7.1 Inserting Food Items in Table Starters</h2>
 
 ![ray-so-export (12)](https://github.com/MohanKrishna-2003/Any-Time-Eats-Project/assets/112927860/810f6223-66ac-4eae-9bfa-245b08737f87)
+
+
+<h2>8. Creating Table Customers</h2>
+
+![ray-so-export (13)](https://github.com/MohanKrishna-2003/Four-Clouds-Kitchen-Project/assets/112927860/72ed25d4-c35a-4f51-a105-970b45fee09c)
+
+<h2>9. Creating Table Orders</h2>
+
+![ray-so-export (14)](https://github.com/MohanKrishna-2003/Four-Clouds-Kitchen-Project/assets/112927860/55e8fca8-7cd9-4e33-8cdf-0b33bde3da07)
+
+
+
+
